@@ -7,7 +7,7 @@ This is not an innovation this is how to use the csv file to json object hence t
 
 For the usage need to follow the Steps for "csvtojson".
 
-Step1: copy the dependencies from this package.json
+Step1: copy the dependencies from this package.json.
 Step2: Goto command prompt and type "npm install".
 
 Modules will be automatically included in your nodemodules directory.
