@@ -1,0 +1,17 @@
+{
+  "name": "filecsvtojson",
+  "version": "1.0.0",
+  "description": "Convert CSV to JSON",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Surendra Babu",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.5"
+  }
+}
